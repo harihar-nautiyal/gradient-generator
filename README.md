@@ -6,16 +6,16 @@ This is a simple Rust project that generates an image with a gradient and saves 
 
 ## Getting Started
 
-### Prerequisites
-
-*   Rust and Cargo must be installed on your system.
-
 ### Installation
 
-## Releases
+#### Releases
 Download the latest version from the [releases page](https://github.com/harihar-nautiyal/gradient-generator/releases).
 
-## Build from Source
+#### Build from Source
+
+##### Prerequisites
+*   Rust and Cargo must be installed on your system.
+
 1.  Clone the repository:
     ```bash
     git clone https://github.com/harihar-nautiyal/gradient-generator
@@ -25,7 +25,7 @@ Download the latest version from the [releases page](https://github.com/harihar-
     cd gradient
     ```
 
-### Usage
+##### Usage
 
 To build and run the project, execute the following command:
 
