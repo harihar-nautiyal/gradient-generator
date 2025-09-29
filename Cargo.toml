@@ -1,0 +1,10 @@
+[package]
+name = "gradient"
+version = "0.1.0"
+edition = "2024"
+authors = ["Harihar Nautiyal <hariharnautiyal@outlook.com>"]
+
+[dependencies]
+image = "0.25.8"
+imageproc = "0.25.0"
+num-complex = "0.4.6"
