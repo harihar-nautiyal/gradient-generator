@@ -12,16 +12,20 @@ This is a simple Rust project that generates an image with a gradient and saves 
 
 ### Installation
 
+## Releases
+Download the latest version from the [releases page](https://github.com/harihar-nautiyal/gradient-generator/releases).
+
+## Build from Source
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/harihar-nautiyal/gradient-generator
     ```
 2.  Navigate to the project directory:
     ```bash
     cd gradient
     ```
 
-## Usage
+### Usage
 
 To build and run the project, execute the following command:
 
@@ -36,7 +40,4 @@ This will generate a `gradient.png` file in the root of the project directory.
 This project uses the following dependencies:
 
 *   `image`
-*   `imageproc`
-*   `num-complex`
 
-*Note: The `imageproc` and `num-complex` dependencies are not used in the current version of the `main.rs` file, but are included in the project.*
