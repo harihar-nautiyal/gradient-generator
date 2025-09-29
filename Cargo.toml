@@ -1,6 +1,6 @@
 [package]
 name = "gradient"
-version = "0.3.0"
+version = "0.3.2"
 edition = "2024"
 authors = ["Harihar Nautiyal <hariharnautiyal@outlook.com>"]
 
